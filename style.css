@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Yellowtail&display=swap');
 
 /* variable colors for light mode */
-[data-theme="light"]{
+:root, [data-theme="light"]{
   --primary-color: rgb(255, 92, 92);
   --primary-variant: #ff2d2d;
   --secondary-color: #1b9999;
